@@ -3,3 +3,4 @@ bench/images/*
 go/pkg/*
 local/*
 /env.sh
+.*
